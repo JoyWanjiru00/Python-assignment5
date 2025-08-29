@@ -1,4 +1,4 @@
-# 📘 Assignment 1 & Activity 2 - Python OOP
+# 📘 Assignment 5 - Python OOP
 
 This project demonstrates **Object-Oriented Programming (OOP)** concepts in Python, including **classes, constructors, inheritance, and polymorphism**.
 
